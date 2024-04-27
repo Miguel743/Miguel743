@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miguel743. 
+- 👋 Hi, I’m Miguel Perez Diaz. 
 - I´m an industrial engineer with more than 15 years of experience in logistics.
 - A few years ago I began a professional reorientation process with the aim of joining the technology field, 
 - specifically the field of data science and machine learning.
